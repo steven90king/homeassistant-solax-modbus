@@ -1,5 +1,5 @@
 {
-    "name": "SolaX Inverter Modbus",
+    "name": "SolaX Inverter Modbus mini",
     "render_readme": true,
     "homeassistant": "2023.9.2"
 }
